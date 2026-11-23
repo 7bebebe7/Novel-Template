@@ -1,0 +1,2 @@
+# Novel-Template
+Mindustry Mod
