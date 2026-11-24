@@ -1,7 +1,7 @@
 //In brackets, indicate the name of the mod that is in "mod.json" / укажите имя мода которое находится в "mod.json"
 const ModName = "novel-template"
 
-const { scenes } = require("particles");
+const { scenes } = require("scenes");
 
 
 let d
